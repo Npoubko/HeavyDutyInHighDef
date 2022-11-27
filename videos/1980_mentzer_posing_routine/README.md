@@ -1,4 +1,4 @@
-[![1980 Mr. Olympia - Mike Mentzer Posing Routine - 4K 60fps UHD AI Remaster Upscale](https://img.youtube.com/vi/clssNEkJ-CY/0.jpg)](https://youtu.be/clssNEkJ-CY "1980 Mr. Olympia - Mike Mentzer Posing Routine - 4K 60fps UHD AI Remaster Upscale")
+![1980 Mr. Olympia - Mike Mentzer Posing Routine - 4K 60fps UHD AI Remaster Upscale](https://youtu.be/clssNEkJ-CY "1980 Mr. Olympia - Mike Mentzer Posing Routine - 4K 60fps UHD AI Remaster Upscale")
 
 ## Original file specifications
 * 640x480
